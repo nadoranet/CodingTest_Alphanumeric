@@ -1,0 +1,7 @@
+D:\Practice\Coding_Git_Repo\CodingTest\CodingTest\bin\Debug\CodingTest.exe.config
+D:\Practice\Coding_Git_Repo\CodingTest\CodingTest\bin\Debug\CodingTest.exe
+D:\Practice\Coding_Git_Repo\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+D:\Practice\Coding_Git_Repo\CodingTest\CodingTest\obj\Debug\CodingTest.csprojAssemblyReference.cache
+D:\Practice\Coding_Git_Repo\CodingTest\CodingTest\obj\Debug\CodingTest.csproj.CoreCompileInputs.cache
+D:\Practice\Coding_Git_Repo\CodingTest\CodingTest\obj\Debug\CodingTest.exe
+D:\Practice\Coding_Git_Repo\CodingTest\CodingTest\obj\Debug\CodingTest.pdb
